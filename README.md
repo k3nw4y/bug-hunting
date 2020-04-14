@@ -12,4 +12,4 @@ More Links to repos are Given below
 # Sites for Bug Hunting
 :link:	https://hackerone.com/  
 :link:	https://www.bugcrowd.com/  
-:link:	:link:	:link:	:link:	https://www.intigriti.com/  
+:link:	https://www.intigriti.com/  
